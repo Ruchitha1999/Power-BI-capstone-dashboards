@@ -1,12 +1,72 @@
 # Power-BI-capstone-dashboards
 
--	Shop Nest, a leading e-commerce marketplace in Portugal, provided retail data and required a comprehensive Power BI dashboard for business analytics. And stakeholders needed insights into sales performance, customer behaviour, and delivery efficiency.
-- Performed data cleaning, created data model relationships, and added DAX measures for total sales, revenue, delays, ratings, and seasonal trends.
-- Built visuals such as bar charts, pie charts, drill-through pages, matrix tables, and line charts. Implemented calculated columns to identify delayed vs on-time deliveries by comparing actual vs estimated delivery dates.
-- Designed interactive filter panels (category, state, year, payment method).
-- Built an end-to-end Power BI dashboard, including top categories by sales, delayed order analysis, payment method analysis, state-wise sales, seasonal trends, and revenue analysis.
-- Delivered a fully interactive Power BI dashboard. Helped stakeholders identify top-selling categories, delayed order hot spots, preferred payment methods, and seasonal revenue peaks.
-- Improved decision-making efficiency and reduced manual analysis effort by over 70%.
+## 📘 Project Overview
+
+This Power BI report analyzes monthly sales performance to help stakeholders understand overall revenue trends, customer-wise sales distribution, and category-level performance. It provides a clear and interactive view of how sales vary across different months and customer segments.
+
+## 🎯 Objectives
+
+- Analyze total sales month-wise for 2023–2024.
+
+- Identify the highest and lowest performing months.
+
+- Compare sales across customers and categories.
+
+- Provide insights using interactive visualizations like bar charts and line charts.
+
+- Improve decision-making with clear KPIs and slicers.
+
+## 📂 Dataset Details
+
+- File Type: Excel
+
+- Columns Include:
+
+    - Date
+
+    - Customer
+
+    - Category
+
+    - Product
+
+    - Sales Amount
+
+    - Month & Year (derived using Power Query/DAX)
+
+## 📈 Key Visuals in the Report
+
+- Line Chart: Monthly sales trend.
+
+- Bar Chart: Customer-wise sales distribution.
+
+- Category Breakdown: Sales by product categories.
+
+- KPIs: Total Sales, Average Monthly Sales, Highest/Lowest Month.
+
+## 🔧 Tools & Skills Used
+
+- Power BI Desktop
+
+- Data Cleaning (Power Query)
+
+- DAX Measures
+
+- Data Modeling
+
+- Visualization & UI Design
+
+- Data Analysis Techniques
+
+## 💡 Insights Derived
+
+- Identified peak sales month(s) and off-season periods.
+
+- Observed which customers contributed the most to yearly sales.
+
+- Categories with maximum revenue share highlighted.
+
+- Patterns useful for forecasting and business planning.
 
 - <img width="1348" height="747" alt="image" src="https://github.com/user-attachments/assets/d4fa2d5c-3256-4294-9b85-a9de4eee2047" />
 
